@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi 👋, I'm Karthikeiyhan S S
 🔭 I’m currently working on my career<br><br>🌱 I’m currently learning AWS, ReactJS<br><br>👯 I’m looking for internship in a Software based company<br><br>📫 How to reach me kx4904@gmail.com
 
 
