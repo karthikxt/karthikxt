@@ -14,6 +14,10 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=karthikxt&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<div id="header" align="center">
+  <img src="[![](https://visitcount.itsvg.in/api?id=karthikxt&icon=0&color=0)](https://visitcount.itsvg.in)" alt=""/>
+</div>
+
 <p align="center">
  <img width="1000" src="./github-snake.svg" alt="snake"/>
 </p>
