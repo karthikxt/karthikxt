@@ -12,10 +12,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikxt&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=karthikxt&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <div id="header" align="center">
-  <img src="[![](https://visitcount.itsvg.in/api?id=karthikxt&icon=0&color=0)](https://visitcount.itsvg.in)" alt=""/>
+  <img src="https://visitcount.itsvg.in/api?id=karthikxt&icon=0&color=0)](https://visitcount.itsvg.in)" alt=""/>
 </div>
 
 <p align="center">
